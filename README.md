@@ -1,15 +1,19 @@
 ## Olá, eu sou Carlos Augusto, desenvolvedor front-end web/mobile atuando com React.JS 👋
 
+
+
 - 🔭 Ataualmente trabalho com Front-end na parte web e mobile com React e React-Native
 - 🌱 Estou me especializando e enriquecendo conhecimentos sobre React e React-Native, além de estar cursando graduação de Análise em Desenvolvimento de Sistemas na faculdade Descomplica Digital
 - 🤔 Procurando me especializar em UI/UX para melhorar minhas interfaces e deixa-las mais belas e com boa experiência para o usuário.
 - 📫 Como entrar em contato comigo: carlosmedeiros.dev@gmail.com
 
+##
+
 <a href="https://github.com/carlosaugusto25/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=carlosaugusto25&theme=dracula&show_icons=true" />
+  <img width=400 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=carlosaugusto25&theme=dracula&show_icons=true" />
 </a>
 <a href="https://github.com/carlosaugusto25/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosaugusto25&layout=compact&langs_count=8&card_width=320&theme=dracula&show_icons=true" />
+  <img width=400 height=168 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosaugusto25&layout=compact&langs_count=8&card_width=320&theme=dracula&show_icons=true" />
 </a>
 
 <div style="display: inline_block"><br>
@@ -34,5 +38,7 @@
   <a href="https://www.linkedin.com/in/carlos-augusto-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+##
 
 ![Snake animation](https://github.com/carlosaugusto25/carlosaugusto25/blob/output/github-contribution-grid-snake.svg)
