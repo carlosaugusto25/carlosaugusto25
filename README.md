@@ -1,4 +1,4 @@
-## Olá, eu sou Carlos Augusto, desenvolvedor front-end web/mobile atuando com React.JS 👋
+## Olá, eu sou Carlos Augusto, desenvolvedor front-end web/mobile atuando com React.JS
 
 
 
