@@ -1,4 +1,4 @@
-### Olá, eu sou Carlos Augusto, desenvolvedor front-end web/mobile atuando com React.JS 👋
+###### Olá, eu sou Carlos Augusto, desenvolvedor front-end web/mobile atuando com React.JS 👋
 
 - 🔭 Ataualmente trabalho com Front-end na parte web e mobile com React e React-Native
 - 🌱 Estou me especializando e enriquecendo conhecimentos sobre React e React-Native, além de estar cursando graduação de Análise em Desenvolvimento de Sistemas na faculdade Descomplica Digital
