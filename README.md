@@ -27,6 +27,7 @@
   <img align="center" alt="Carlos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Carlos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Carlos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg">
+  <img align="center" alt="Carlos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original-wordmark.svg">
   <img align="right" alt="Carlos-React" height="120" width="120" src="https://th.bing.com/th/id/OIG3.PfJabmwt1KghLE.WunQx?w=1024&h=1024&rs=1&pid=ImgDetMain">
  
 </div>
