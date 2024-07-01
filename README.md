@@ -2,10 +2,10 @@
 
 
 
-- 🔭 Ataualmente trabalho com Front-end na parte web e mobile com React e React-Native
-- 🌱 Estou me especializando e enriquecendo conhecimentos sobre React e React-Native, além de estar cursando graduação de Análise em Desenvolvimento de Sistemas na faculdade Descomplica Digital
-- 🤔 Procurando me especializar em UI/UX para melhorar minhas interfaces e deixa-las mais belas e com boa experiência para o usuário.
-- 📫 Como entrar em contato comigo: carlosmedeiros.dev@gmail.com
+- 🔭 Trabalhei no desenvolvimento Front-end web e mobile com React e React-Native por 3 anos. Atualmente estou em busca de novos desafios e uma oportunidade para me recolocar no mercado de trabalho.
+- 🌱 Estou me especializando e enriquecendo conhecimentos, aprendendo Back-end com Node.JS, além de reforçar meus conhecimentos em React e React-Native. Estou cursando graduação de Análise em Desenvolvimento de Sistemas na faculdade Estácio e fazendo um curso técnico de Engenheiro de Software na instituição DNC.
+- 🤔 Procurando me especializar em UI/UX para melhorar minhas interfaces e deixa-las mais belas e com boa experiência para o usuário, e aprender a construir API's para deixar meu projetos ainda mais completos.
+- 📫 Como entrar em contato comigo: carlosmedeiros.dev@gmail.com ou no meu perfil no LinkedIn que segue abaixo.
 
 ##
 
@@ -26,9 +26,7 @@
   <img align="center" alt="Carlos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Carlos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Carlos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" alt="Carlos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg">
-  <img align="center" alt="Carlos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original-wordmark.svg">
-  <img align="right" alt="Carlos-React" height="150" width="150" src="https://th.bing.com/th/id/OIG4.OZj9lDXnsrzH45NKtqMJ?pid=ImgGn">
+  <img align="right" alt="Carlos-React" height="150" width="150" src="https://tse4.mm.bing.net/th?id=OIG3.zpnN9p11uFr6W00zdvvT&pid=ImgGn">
  
 </div>
   
