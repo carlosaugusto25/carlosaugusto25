@@ -1,9 +1,9 @@
-## Olá, eu sou Carlos Augusto, desenvolvedor front-end web/mobile atuando com React.JS
+## Olá, eu sou Carlos Augusto, desenvolvedor full stack web/mobile JavaScript
 
 
 
-- 🔭 Trabalho com desenvolvimento Front-end web e mobile com React e React-Native a mais de 3 anos. Atualmente estou em busca de novos desafios e uma oportunidade para me recolocar no mercado de trabalho.
-- 🌱 Estou me especializando e enriquecendo conhecimentos, aprendendo Back-end com Node.JS, além de reforçar meus conhecimentos em React e React-Native. Estou cursando graduação de Análise em Desenvolvimento de Sistemas na faculdade IMES e fazendo um curso de especialização em Engenheiro de Software na instituição DNC.
+- 🔭 Trabalho com desenvolvimento Front-end web e mobile com React, React-Native e Node a mais de 3 anos. Atualmente estou em busca de novos desafios e uma oportunidade para me recolocar no mercado de trabalho.
+- 🌱 Estou me especializando e buscando aprender coisas novas para enriquecendo conhecimentos. Atualmente curso graduação de Análise em Desenvolvimento de Sistemas na faculdade IMES, Sistemas para Interner no IFRN e um curso especialista em Engenheiro de Software na instituição Escola DNC.
 - 🤔 Procurando me especializar em UI/UX para melhorar minhas interfaces e deixa-las mais belas e com boa experiência para o usuário, e aprender a construir API's para deixar meu projetos ainda mais completos.
 - 📫 Como entrar em contato comigo: carlosmedeiros.dev@gmail.com ou no meu perfil no LinkedIn que segue abaixo.
 
@@ -27,7 +27,6 @@
   <img align="center" alt="Carlos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Carlos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Carlos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="right" alt="Carlos-React" height="150" width="150" src="https://tse4.mm.bing.net/th?id=OIG3.zpnN9p11uFr6W00zdvvT&pid=ImgGn">
  
 </div>
   
