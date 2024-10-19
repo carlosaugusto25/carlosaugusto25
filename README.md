@@ -1,6 +1,6 @@
 <img width='100%' src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:b5011e,100:0f023a&text=Carlos%20Augusto&fontAlignY=35&fontColor=ffffff&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=B5011E&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil+no+GitHub!;Conhe%C3%A7a+mais+sobre+mim+e+minhas+habilidades!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=B5011E&vCenter=true&width=720&lines=Este+é+o+meu+perfil+no+GitHub!;Conhe%C3%A7a+mais+sobre+mim,+meus+projetos+e+minhas+habilidades!)](https://git.io/typing-svg)
 
 ## Olá, eu sou Carlos Augusto, desenvolvedor full stack web/mobile JavaScript
 
