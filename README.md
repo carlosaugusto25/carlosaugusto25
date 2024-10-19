@@ -2,9 +2,9 @@
 
 
 
-- 🔭 Trabalho com desenvolvimento Front-end web e mobile com React, React-Native e Node a mais de 3 anos. Atualmente estou em busca de novos desafios e uma oportunidade para me recolocar no mercado de trabalho.
+- 🔭 Trabalho com Desenvolvimento Web/Mobile com React, React-Native e Node a mais de 3 anos. Atualmente estou em busca de novos desafios e uma oportunidade para me recolocar no mercado de trabalho.
 - 🌱 Estou me especializando e buscando aprender coisas novas para enriquecendo conhecimentos. Atualmente curso graduação de Análise em Desenvolvimento de Sistemas na faculdade IMES, Sistemas para Interner no IFRN e um curso especialista em Engenheiro de Software na instituição Escola DNC.
-- 🤔 Procurando me especializar em UI/UX para melhorar minhas interfaces e deixa-las mais belas e com boa experiência para o usuário, e aprender a construir API's para deixar meu projetos ainda mais completos.
+- 🤔 Estou procurando me especializar cada vez mais, através de estudos, para deixar meus projetos cada vez melhores, tanto no UI/UX, quanto na performance.
 - 📫 Como entrar em contato comigo: carlosmedeiros.dev@gmail.com ou no meu perfil no LinkedIn que segue abaixo.
 
 ##
