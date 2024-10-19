@@ -1,13 +1,15 @@
 <img width='100%' src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:b5011e,100:0f023a&text=Carlos%20Augusto&fontAlignY=35&fontColor=ffffff&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=B5011E&center=true&vCenter=true&width=435&lines=Bem-vindos+ao+meu+GitHub!;Conhe%C3%A7a+mais+sobre+mim!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=B5011E&vCenter=true&width=600&lines=Bem-vindos+ao+meu+perfil+no+GitHub!;Conhe%C3%A7a+mais+sobre+mim+e+minhas+habilidades!)](https://git.io/typing-svg)
 
 ## Olá, eu sou Carlos Augusto, desenvolvedor full stack web/mobile JavaScript
 
 - 🔭 Trabalho com Desenvolvimento Web/Mobile com React, React-Native e Node a mais de 3 anos. Atualmente estou em busca de novos desafios e uma oportunidade para me recolocar no mercado de trabalho.
-- 🌱 Estou me especializando e buscando aprender coisas novas para enriquecendo conhecimentos. Atualmente curso graduação de Análise em Desenvolvimento de Sistemas na faculdade IMES, Sistemas para Interner no IFRN e um curso especialista em Engenheiro de Software na instituição Escola DNC.
+- 🌱 Estou me especializando e buscando aprender coisas novas para enriquecendo conhecimentos. Atualmente curso graduação de Análise em Desenvolvimento de Sistemas na faculdade IMES, Sistemas para Internet no IFRN e um curso especialista em Engenheiro de Software na instituição Escola DNC.
 - 🤔 Estou procurando me especializar cada vez mais, através de estudos, para deixar meus projetos cada vez melhores, tanto no UI/UX, quanto na performance.
 - 📫 Como entrar em contato comigo: carlosmedeiros.dev@gmail.com ou no meu perfil no LinkedIn que segue abaixo.
+
+  **Habilidades**
 
 ##
 
@@ -29,7 +31,7 @@
   <img align="center" alt="Carlos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Carlos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Carlos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
- 
+  <img width="150px" src="https://i.ibb.co/wp3sV99/0a3a6d7b-b4f4-4f4d-9163-925ad3b93c06.jpg" alt="0a3a6d7b-b4f4-4f4d-9163-925ad3b93c06">
 </div>
   
   ##
