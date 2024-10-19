@@ -2,22 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=B5011E&vCenter=true&width=720&lines=Este+é+o+meu+perfil+no+GitHub!;Conhe%C3%A7a+mais+sobre+mim,+meus+projetos+e+minhas+habilidades!)](https://git.io/typing-svg)
 
-## Olá, eu sou Carlos Augusto, desenvolvedor full stack web/mobile JavaScript
+🧑‍💻 **Olá, eu sou Carlos Augusto, Desenvolvedor Full Stack Web/Mobile JavaScript**
 
-- 🔭 Trabalho com Desenvolvimento Web/Mobile com React, React-Native e Node a mais de 3 anos. Atualmente estou em busca de novos desafios e uma oportunidade para me recolocar no mercado de trabalho.
-- 🌱 Estou me especializando e buscando aprender coisas novas para enriquecendo conhecimentos. Atualmente curso graduação de Análise em Desenvolvimento de Sistemas na faculdade IMES, Sistemas para Internet no IFRN e um curso especialista em Engenheiro de Software na instituição Escola DNC.
-- 🤔 Estou procurando me especializar cada vez mais, através de estudos, para deixar meus projetos cada vez melhores, tanto no UI/UX, quanto na performance.
-- 📫 Como entrar em contato comigo: carlosmedeiros.dev@gmail.com ou no meu perfil no LinkedIn que segue abaixo.
+## 
 
-##
-
-<div> 
-  <a href = "mailto:carlosmedeiros.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/carlos-augusto-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-  
-##
-
+🔭 Trabalho com Desenvolvimento Web/Mobile usando tecnologias como React, React-Native e Node a mais de 3 anos. Atualmente estou em busca de novos desafios e uma oportunidade para me recolocar no mercado de trabalho.
 <div style="display: inline_block"><br>
   <img align="center" alt="Carlos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -29,9 +18,30 @@
   <img align="center" alt="Carlos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Carlos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Carlos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-  
+  <img align="center" alt="Carlos-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+  <img align="center" alt="Carlos-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
+  <img align="center" alt="Carlos-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
+  <img align="center" alt="Carlos-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />       
+  <img align="center" alt="Carlos-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="Carlos-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/knexjs/knexjs-original-wordmark.svg" />
 </div>
 
+
+##
+
+📖**Experiências acadêmicas**<br><br>
+Análise e Desenvolvimento de Sistemas - <i>Faculdade IMES</i> - Tecnólogo
+Sistemas para Internet - <i>Instituto Federal do Rio Grande do Norte (IFRN)</i> - Tecnólogo
+Engenheiro de Software - <i>Escola DNC</i> - Curso Especialista
+Administração - <i>Unidaversidade Potiguar (UnP)</i>
+
+##
+📫 **Contato**
+<div> 
+  <a href = "mailto:carlosmedeiros.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/carlos-augusto-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+  
 ##
 
 <a href="https://github.com/carlosaugusto25/github-readme-stats">
