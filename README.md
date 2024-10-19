@@ -30,10 +30,10 @@
 ##
 
 📖**Experiências acadêmicas**<br><br>
-Análise e Desenvolvimento de Sistemas - <i>Faculdade IMES</i> - Tecnólogo
-Sistemas para Internet - <i>Instituto Federal do Rio Grande do Norte (IFRN)</i> - Tecnólogo
-Engenheiro de Software - <i>Escola DNC</i> - Curso Especialista
-Administração - <i>Unidaversidade Potiguar (UnP)</i>
+Análise e Desenvolvimento de Sistemas - <i>Faculdade IMES</i> - Tecnólogo<br>
+Sistemas para Internet - <i>Instituto Federal do Rio Grande do Norte (IFRN)</i> - Tecnólogo<br>
+Engenheiro de Software - <i>Escola DNC</i> - Curso Especialista<br>
+Administração - <i>Unidaversidade Potiguar (UnP)</i> - Bacharelado
 
 ##
 📫 **Contato**
