@@ -30,16 +30,22 @@
 ##
 
 📖**Experiências acadêmicas**<br><br>
-Análise e Desenvolvimento de Sistemas - <i>Faculdade IMES</i> - Tecnólogo<br>
-Sistemas para Internet - <i>Instituto Federal do Rio Grande do Norte (IFRN)</i> - Tecnólogo<br>
-Engenheiro de Software - <i>Escola DNC</i> - Curso Especialista<br>
-Administração - <i>Unidaversidade Potiguar (UnP)</i> - Bacharelado
+Análise e Desenvolvimento de Sistemas - <i>Faculdade IMES</i> - Tecnólogo <i>(cursando...)</i><br>
+Sistemas para Internet - <i>Instituto Federal do Rio Grande do Norte (IFRN)</i> - Tecnólogo <i>(cursando...)</i><br>
+Engenheiro de Software - <i>Escola DNC</i> - Curso Especialista <i>(cursando...)</i><br>
+Administração - <i>Unidaversidade Potiguar (UnP)</i> - Bacharelado <i>(completo)</i>
 
 ##
-📫 **Contato**
+
+**Conheça mais sobre mim, minhas habilidades e experiências técnicas e profissionais acessando meu perfil no LinkedIn**
+<div>
+  <a href="https://www.linkedin.com/in/carlos-augusto-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
+##
+📫 **Entre em contato comigo**
 <div> 
   <a href = "mailto:carlosmedeiros.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/carlos-augusto-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
   
 ##
