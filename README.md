@@ -30,6 +30,7 @@
 ##
 
 📖**Experiências acadêmicas**<br><br>
+Ciência da Computação - <iUnidaversidade Potiguar (UnP)</i> - Bacharelado <i>(cursando...)</i><br>
 Análise e Desenvolvimento de Sistemas - <i>Faculdade IMES</i> - Tecnólogo <i>(cursando...)</i><br>
 Sistemas para Internet - <i>Instituto Federal do Rio Grande do Norte (IFRN)</i> - Tecnólogo <i>(cursando...)</i><br>
 Engenheiro de Software - <i>Escola DNC</i> - Curso Especialista <i>(cursando...)</i><br>
