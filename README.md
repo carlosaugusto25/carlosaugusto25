@@ -30,12 +30,12 @@
 ##
 
 📖**Experiências acadêmicas**<br><br>
-Ciência da Computação - <i>Unidaversidade Potiguar (UnP)</i> - Bacharelado <i>(cursando...)</i><br>
+Ciência da Computação - <i>Universidade Potiguar (UnP)</i> - Bacharelado <i>(cursando...)</i><br>
 Sistemas de Informação - <i>UFBRA</i> - Bacharelado <i>(cursando...)</i><br>
 Análise e Desenvolvimento de Sistemas - <i>Faculdade IMES</i> - Tecnólogo <i>(cursando...)</i><br>
 Coding - <i>UNINASSAU</i> - Tecnólogo <i>(cursando...)</i><br>
 Engenheiro de Software - <i>Escola DNC</i> - Curso Especialista <i>(cursando...)</i><br>
-Administração - <i>Unidaversidade Potiguar (UnP)</i> - Bacharelado <i>(completo)</i>
+Administração - <i>Universidade Potiguar (UnP)</i> - Bacharelado <i>(completo)</i>
 
 ##
 
