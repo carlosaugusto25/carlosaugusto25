@@ -6,7 +6,7 @@
 
 ## 
 
-🔭 Trabalho com Desenvolvimento Web/Mobile usando tecnologias como React, React-Native e Node a mais de 3 anos. Atualmente estou em busca de novos desafios e uma oportunidade para me recolocar no mercado de trabalho.
+🔭 Trabalho com Desenvolvimento Web/Mobile usando tecnologias como React, React-Native e Node a 4 anos. Atualmente estou em busca de novos desafios e uma oportunidade para me recolocar no mercado de trabalho.
 <div style="display: inline_block"><br>
   <img align="center" alt="Carlos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
