@@ -26,17 +26,6 @@
   <img align="center" alt="Carlos-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/knexjs/knexjs-original-wordmark.svg" />
 </div>
 
-
-##
-
-📖**Experiências acadêmicas**<br><br>
-Ciência da Computação - <i>Universidade Potiguar (UnP)</i> - Bacharelado <i>(cursando...)</i><br>
-Sistemas de Informação - <i>UFBRA</i> - Bacharelado <i>(cursando...)</i><br>
-Análise e Desenvolvimento de Sistemas - <i>Faculdade IMES</i> - Tecnólogo <i>(cursando...)</i><br>
-Coding - <i>UNINASSAU</i> - Tecnólogo <i>(cursando...)</i><br>
-Engenheiro de Software - <i>Escola DNC</i> - Curso Especialista <i>(cursando...)</i><br>
-Administração - <i>Universidade Potiguar (UnP)</i> - Bacharelado <i>(completo)</i>
-
 ##
 
 **Conheça mais sobre mim, minhas habilidades e experiências técnicas e profissionais acessando meu perfil no LinkedIn**
